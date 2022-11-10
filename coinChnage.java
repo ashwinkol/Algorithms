@@ -3,7 +3,7 @@ public class coinChnage {
 	
 	private static void coinChange(int change) {
 		
-		int[] coins = {10,5,2,1};
+		int[] coins = {2000,500,200,100,50,10,5,2,1};
 		int i = 0;
 		
 		while(change > 0) {
